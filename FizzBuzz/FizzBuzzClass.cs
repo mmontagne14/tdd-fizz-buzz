@@ -2,28 +2,19 @@ public static class FizzBuzzClass
 {
     public static string convert(int number)
     {
-        string numberString = Convert.ToString(number);
-        string result = "";
+        bool isMultipleOf3 = MultipleChecker(number, 3);
+        bool isMultipleOf5 = MultipleChecker(number, 5);
+        if (isMultipleOf3 && isMultipleOf5)
+            return "FizzBuzz";
+        if (isMultipleOf3)
+            return "Fizz";
+        if (isMultipleOf5)
+            return "Buzz";
+        return Convert.ToString(number);
+    }
 
-        if (numberString.Contains('3'))
-        {
-            foreach (char c in numberString)
-            {
-                if (c == '3') result += "Fizz";
-            }
-        }
-
-
-        if (number % 3 == 0) result += "Fizz";
-        if (numberString.Contains('5'))
-        {
-            foreach (char c in numberString)
-            {
-                if (c == '5') result += "Buzz";
-            }
-        }
-        if (number % 5 == 0) result += "Buzz";
-
-        return !string.IsNullOrEmpty(result) ? result : numberString;
+    private static bool MultipleChecker(int number, int divider)
+    {
+        return number % divider == 0;
     }
 }

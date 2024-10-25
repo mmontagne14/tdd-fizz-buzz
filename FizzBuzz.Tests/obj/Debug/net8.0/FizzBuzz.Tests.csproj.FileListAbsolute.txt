@@ -103,3 +103,4 @@ D:\Repositories\TDD\tdd-fuzzBuzz\FizzBuzz.Tests\obj\Debug\net8.0\refint\FizzBuzz
 D:\Repositories\TDD\tdd-fuzzBuzz\FizzBuzz.Tests\obj\Debug\net8.0\FizzBuzz.Tests.pdb
 D:\Repositories\TDD\tdd-fuzzBuzz\FizzBuzz.Tests\obj\Debug\net8.0\FizzBuzz.Tests.genruntimeconfig.cache
 D:\Repositories\TDD\tdd-fuzzBuzz\FizzBuzz.Tests\obj\Debug\net8.0\ref\FizzBuzz.Tests.dll
+D:\Repositories\TDD\tdd-fuzzBuzz\FizzBuzz.Tests\obj\Debug\net8.0\FizzBuzz.Tests.sourcelink.json

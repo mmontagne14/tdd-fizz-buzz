@@ -12,3 +12,4 @@ D:\Repositories\TDD\tdd-fuzzBuzz\FizzBuzz\obj\Debug\net8.0\refint\FizzBuzz.dll
 D:\Repositories\TDD\tdd-fuzzBuzz\FizzBuzz\obj\Debug\net8.0\FizzBuzz.pdb
 D:\Repositories\TDD\tdd-fuzzBuzz\FizzBuzz\obj\Debug\net8.0\FizzBuzz.genruntimeconfig.cache
 D:\Repositories\TDD\tdd-fuzzBuzz\FizzBuzz\obj\Debug\net8.0\ref\FizzBuzz.dll
+D:\Repositories\TDD\tdd-fuzzBuzz\FizzBuzz\obj\Debug\net8.0\FizzBuzz.sourcelink.json
